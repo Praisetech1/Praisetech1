@@ -1,12 +1,2 @@
- Expo Router
-
-
-🚀 How to use
-
-npx expo
-
-📝 Notes
-
-    Expo Router: Docs
-    Expo Router: Repo
-
+hi my name is Praise Masunga a front and backend devoloper 
+https://twitter.com/praisetech_zw
