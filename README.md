@@ -1,2 +1,2 @@
-# Praisetech1
-# Praisetech1
+# hello this is Praisetech 
+this is a project based on navigation using expo 
