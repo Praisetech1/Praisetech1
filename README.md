@@ -1,2 +1,12 @@
-# hello this is Praisetech 
-this is a project based on navigation using expo 
+ Expo Router
+
+
+🚀 How to use
+
+npx expo
+
+📝 Notes
+
+    Expo Router: Docs
+    Expo Router: Repo
+
